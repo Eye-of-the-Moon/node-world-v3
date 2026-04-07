@@ -1,0 +1,7 @@
+.nw2.toml
+.nw.toml
+.mcp.json
+.claude/
+hooks/
+skills/
+.claude-plugin/
